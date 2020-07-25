@@ -1,2 +1,6 @@
 sai:
   branchName: UAT Cloud Config
+
+
+server:
+  port: 8005
